@@ -5,7 +5,7 @@ const controller = require('./controller');
 /* @description Root Route
     @method GET */
 
-route.get('/',controller.helloworld);
+// route.get('/',controller.helloworld);
 
 
 

@@ -1,6 +1,6 @@
-exports.helloworld = (req, res) => {
-    res.status(200).send({ message: "Hello World!" });
-}
+// exports.helloworld = (req, res) => {
+//     res.status(200).send({ message: "Hello World!" });
+// }
 
 var model = require('./model');
 
